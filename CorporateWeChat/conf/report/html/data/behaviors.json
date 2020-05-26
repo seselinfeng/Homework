@@ -1,0 +1,96 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "test_addmember",
+    "uid" : "861225df083972dd",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1590463298671,
+      "stop" : 1590463308078,
+      "duration" : 9407
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "添加用户",
+    "uid" : "a854209a11f5740f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1590463698835,
+      "stop" : 1590463708124,
+      "duration" : 9289
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'女'", "'test1'", "18900000001" ]
+  }, {
+    "name" : "添加用户",
+    "uid" : "2742f1a86097a40d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1590463711970,
+      "stop" : 1590463722369,
+      "duration" : 10399
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'男'", "'test2'", "18900000002" ]
+  }, {
+    "name" : "添加用户",
+    "uid" : "20cd03a22f8a60bb",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1590463726141,
+      "stop" : 1590463735804,
+      "duration" : 9663
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'女'", "'test1'", "18900000002" ]
+  }, {
+    "name" : "删除用户",
+    "uid" : "a50498fdcbb42334",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1590463739598,
+      "stop" : 1590463757617,
+      "duration" : 18019
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'test1'" ]
+  }, {
+    "name" : "删除用户",
+    "uid" : "eec0f98d53e601c2",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1590463761459,
+      "stop" : 1590463779479,
+      "duration" : 18020
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'test2'" ]
+  }, {
+    "name" : "删除用户",
+    "uid" : "78edc617d6d91954",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1590463783352,
+      "stop" : 1590463798982,
+      "duration" : 15630
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'test3'" ]
+  } ]
+}

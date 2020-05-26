@@ -1,0 +1,83 @@
+{
+  "uid" : "861225df083972dd",
+  "name" : "test_addmember",
+  "fullName" : "test_case.TestCorporateWeChat#test_addmember",
+  "historyId" : "99fa3b02cbd0f9f09ca019c6061da439",
+  "time" : {
+    "start" : 1590463298671,
+    "stop" : 1590463308078,
+    "duration" : 9407
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1590463292926,
+      "stop" : 1590463298670,
+      "duration" : 5744
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1590463308079,
+      "stop" : 1590463308330,
+      "duration" : 251
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_case"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCorporateWeChat"
+  }, {
+    "name" : "host",
+    "value" : "mac-test.local"
+  }, {
+    "name" : "thread",
+    "value" : "26530-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "861225df083972dd.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,329 @@
+DELETE http://127.0.0.1:4723/wd/hub/session/210aacb2-6365-4341-9f1d-d67cffdff64e {}
+http://127.0.0.1:4723 "DELETE /wd/hub/session/210aacb2-6365-4341-9f1d-d67cffdff64e HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session {"capabilities": {"firstMatch": [{"platformName": "android", "appium:deviceName": "S2D0219430000212", "appium:appPackage": "com.tencent.wework", "appium:appActivity": ".launch.LaunchSplashActivity", "appium:noReset": "true", "appium:unicodeKeyBoard": true, "appium:skipDeviceInitialization": true, "appium:skipLogcatCapture": true, "appium:skipServerInstallation": true, "appium:resetKeyBoard": true}]}, "desiredCapabilities": {"platformName": "android", "deviceName": "S2D0219430000212", "appPackage": "com.tencent.wework", "appActivity": ".launch.LaunchSplashActivity", "noReset": "true", "unicodeKeyBoard": true, "skipDeviceInitialization": true, "skipLogcatCapture": true, "skipServerInstallation": true, "resetKeyBoard": true}}
+Starting new HTTP connection (1): 127.0.0.1:4723
+http://127.0.0.1:4723 "POST /wd/hub/session HTTP/1.1" 200 1132
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/timeouts {"implicit": 10000}
+http://127.0.0.1:4723 "POST /wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/timeouts HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/element {"using": "xpath", "value": "//*[@text='\u56e2\u961f']"}
+http://127.0.0.1:4723 "POST /wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/element HTTP/1.1" 200 137
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/timeouts {"implicit": 10000}
+http://127.0.0.1:4723 "POST /wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/timeouts HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/element/053d64bf-21e3-4509-8e3c-bb670a63febf/click {"id": "053d64bf-21e3-4509-8e3c-bb670a63febf"}
+http://127.0.0.1:4723 "POST /wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/element/053d64bf-21e3-4509-8e3c-bb670a63febf/click HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/element {"using": "xpath", "value": "//*[@text='\u6dfb\u52a0\u6210\u5458...']"}
+http://127.0.0.1:4723 "POST /wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/element HTTP/1.1" 200 137
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/timeouts {"implicit": 10000}
+http://127.0.0.1:4723 "POST /wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/timeouts HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/element/b0eac6f6-7c28-4325-98e6-da79789263c8/click {"id": "b0eac6f6-7c28-4325-98e6-da79789263c8"}
+http://127.0.0.1:4723 "POST /wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/element/b0eac6f6-7c28-4325-98e6-da79789263c8/click HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/element {"using": "id", "value": "com.tencent.wework:id/h3a"}
+http://127.0.0.1:4723 "POST /wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/element HTTP/1.1" 200 137
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/timeouts {"implicit": 10000}
+http://127.0.0.1:4723 "POST /wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/timeouts HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/element/a81c3e64-233f-408b-93b4-ac5110ab0c56/click {"id": "a81c3e64-233f-408b-93b4-ac5110ab0c56"}
+http://127.0.0.1:4723 "POST /wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/element/a81c3e64-233f-408b-93b4-ac5110ab0c56/click HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/element {"using": "xpath", "value": "//*[@text='\u59d3\u540d\u3000']/..//*[@class='android.widget.EditText']"}
+http://127.0.0.1:4723 "POST /wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/element HTTP/1.1" 200 137
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/timeouts {"implicit": 10000}
+http://127.0.0.1:4723 "POST /wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/timeouts HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/element/cc639824-18cd-4dfe-ae0c-8108d42bc266/value {"text": "test2", "value": ["t", "e", "s", "t", "2"], "id": "cc639824-18cd-4dfe-ae0c-8108d42bc266"}
+http://127.0.0.1:4723 "POST /wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/element/cc639824-18cd-4dfe-ae0c-8108d42bc266/value HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/element {"using": "xpath", "value": "//*[@text='\u6027\u522b']/..//*[@resource-id='com.tencent.wework:id/av9']"}
+http://127.0.0.1:4723 "POST /wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/element HTTP/1.1" 200 137
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/timeouts {"implicit": 10000}
+http://127.0.0.1:4723 "POST /wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/timeouts HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/element/339d98ba-daab-4d6b-b1b2-490a8312b39f/click {"id": "339d98ba-daab-4d6b-b1b2-490a8312b39f"}
+http://127.0.0.1:4723 "POST /wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/element/339d98ba-daab-4d6b-b1b2-490a8312b39f/click HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/element {"using": "xpath", "value": "//*[@text='\u7537']"}
+http://127.0.0.1:4723 "POST /wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/element HTTP/1.1" 200 137
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/timeouts {"implicit": 10000}
+http://127.0.0.1:4723 "POST /wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/timeouts HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/element/f060f02a-b1dd-4953-9dcf-9207d620c61e/click {"id": "f060f02a-b1dd-4953-9dcf-9207d620c61e"}
+http://127.0.0.1:4723 "POST /wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/element/f060f02a-b1dd-4953-9dcf-9207d620c61e/click HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/element {"using": "id", "value": "com.tencent.wework:id/eqx"}
+http://127.0.0.1:4723 "POST /wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/element HTTP/1.1" 200 137
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/timeouts {"implicit": 10000}
+http://127.0.0.1:4723 "POST /wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/timeouts HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/element/d34b40a7-d25a-4882-ac99-029976181873/value {"text": "18900000002", "value": ["1", "8", "9", "0", "0", "0", "0", "0", "0", "0", "2"], "id": "d34b40a7-d25a-4882-ac99-029976181873"}
+http://127.0.0.1:4723 "POST /wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/element/d34b40a7-d25a-4882-ac99-029976181873/value HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/element {"using": "id", "value": "com.tencent.wework:id/gvk"}
+http://127.0.0.1:4723 "POST /wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/element HTTP/1.1" 200 137
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/timeouts {"implicit": 10000}
+http://127.0.0.1:4723 "POST /wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/timeouts HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/element/fa2871f2-3b80-4c46-8a49-86ce5c537b77/click {"id": "fa2871f2-3b80-4c46-8a49-86ce5c537b77"}
+http://127.0.0.1:4723 "POST /wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541/element/fa2871f2-3b80-4c46-8a49-86ce5c537b77/click HTTP/1.1" 200 14
+Finished Request
+DELETE http://127.0.0.1:4723/wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541 {}
+http://127.0.0.1:4723 "DELETE /wd/hub/session/fc13edaa-99e4-4fa9-8beb-f60b91ab7541 HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session {"capabilities": {"firstMatch": [{"platformName": "android", "appium:deviceName": "S2D0219430000212", "appium:appPackage": "com.tencent.wework", "appium:appActivity": ".launch.LaunchSplashActivity", "appium:noReset": "true", "appium:unicodeKeyBoard": true, "appium:skipDeviceInitialization": true, "appium:skipLogcatCapture": true, "appium:skipServerInstallation": true, "appium:resetKeyBoard": true}]}, "desiredCapabilities": {"platformName": "android", "deviceName": "S2D0219430000212", "appPackage": "com.tencent.wework", "appActivity": ".launch.LaunchSplashActivity", "noReset": "true", "unicodeKeyBoard": true, "skipDeviceInitialization": true, "skipLogcatCapture": true, "skipServerInstallation": true, "resetKeyBoard": true}}
+Starting new HTTP connection (1): 127.0.0.1:4723
+http://127.0.0.1:4723 "POST /wd/hub/session HTTP/1.1" 200 1132
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/timeouts {"implicit": 10000}
+http://127.0.0.1:4723 "POST /wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/timeouts HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/element {"using": "xpath", "value": "//*[@text='\u56e2\u961f']"}
+http://127.0.0.1:4723 "POST /wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/element HTTP/1.1" 200 137
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/timeouts {"implicit": 10000}
+http://127.0.0.1:4723 "POST /wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/timeouts HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/element/efab129e-3d0d-44b9-835f-59fee8191fcf/click {"id": "efab129e-3d0d-44b9-835f-59fee8191fcf"}
+http://127.0.0.1:4723 "POST /wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/element/efab129e-3d0d-44b9-835f-59fee8191fcf/click HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/element {"using": "xpath", "value": "//*[@text='\u6dfb\u52a0\u6210\u5458...']"}
+http://127.0.0.1:4723 "POST /wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/element HTTP/1.1" 200 137
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/timeouts {"implicit": 10000}
+http://127.0.0.1:4723 "POST /wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/timeouts HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/element/5adaf075-fde7-4528-903b-09701d7bc468/click {"id": "5adaf075-fde7-4528-903b-09701d7bc468"}
+http://127.0.0.1:4723 "POST /wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/element/5adaf075-fde7-4528-903b-09701d7bc468/click HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/element {"using": "id", "value": "com.tencent.wework:id/h3a"}
+http://127.0.0.1:4723 "POST /wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/element HTTP/1.1" 200 137
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/timeouts {"implicit": 10000}
+http://127.0.0.1:4723 "POST /wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/timeouts HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/element/9f45d494-132e-4993-8ee7-67c986d0c456/click {"id": "9f45d494-132e-4993-8ee7-67c986d0c456"}
+http://127.0.0.1:4723 "POST /wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/element/9f45d494-132e-4993-8ee7-67c986d0c456/click HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/element {"using": "xpath", "value": "//*[@text='\u59d3\u540d\u3000']/..//*[@class='android.widget.EditText']"}
+http://127.0.0.1:4723 "POST /wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/element HTTP/1.1" 200 137
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/timeouts {"implicit": 10000}
+http://127.0.0.1:4723 "POST /wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/timeouts HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/element/ad83940b-a857-4b17-b837-223f5f80d7b9/value {"text": "test1", "value": ["t", "e", "s", "t", "1"], "id": "ad83940b-a857-4b17-b837-223f5f80d7b9"}
+http://127.0.0.1:4723 "POST /wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/element/ad83940b-a857-4b17-b837-223f5f80d7b9/value HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/element {"using": "xpath", "value": "//*[@text='\u6027\u522b']/..//*[@resource-id='com.tencent.wework:id/av9']"}
+http://127.0.0.1:4723 "POST /wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/element HTTP/1.1" 200 137
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/timeouts {"implicit": 10000}
+http://127.0.0.1:4723 "POST /wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/timeouts HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/element/6aa15ae1-102d-44d9-b62a-267e4afdaee7/click {"id": "6aa15ae1-102d-44d9-b62a-267e4afdaee7"}
+http://127.0.0.1:4723 "POST /wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/element/6aa15ae1-102d-44d9-b62a-267e4afdaee7/click HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/element {"using": "xpath", "value": "//*[@text='\u5973']"}
+http://127.0.0.1:4723 "POST /wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/element HTTP/1.1" 200 137
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/timeouts {"implicit": 10000}
+http://127.0.0.1:4723 "POST /wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/timeouts HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/element/b4a51e7a-71aa-4459-ac3a-55c2c853b5f0/click {"id": "b4a51e7a-71aa-4459-ac3a-55c2c853b5f0"}
+http://127.0.0.1:4723 "POST /wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/element/b4a51e7a-71aa-4459-ac3a-55c2c853b5f0/click HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/element {"using": "id", "value": "com.tencent.wework:id/eqx"}
+http://127.0.0.1:4723 "POST /wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/element HTTP/1.1" 200 137
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/timeouts {"implicit": 10000}
+http://127.0.0.1:4723 "POST /wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/timeouts HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/element/13a26657-9c41-4307-ba8e-b7f2d5cdb1db/value {"text": "18900000002", "value": ["1", "8", "9", "0", "0", "0", "0", "0", "0", "0", "2"], "id": "13a26657-9c41-4307-ba8e-b7f2d5cdb1db"}
+http://127.0.0.1:4723 "POST /wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/element/13a26657-9c41-4307-ba8e-b7f2d5cdb1db/value HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/element {"using": "id", "value": "com.tencent.wework:id/gvk"}
+http://127.0.0.1:4723 "POST /wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/element HTTP/1.1" 200 137
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/timeouts {"implicit": 10000}
+http://127.0.0.1:4723 "POST /wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/timeouts HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/element/01105489-493c-403c-814a-d157d6a0b11e/click {"id": "01105489-493c-403c-814a-d157d6a0b11e"}
+http://127.0.0.1:4723 "POST /wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440/element/01105489-493c-403c-814a-d157d6a0b11e/click HTTP/1.1" 200 14
+Finished Request
+DELETE http://127.0.0.1:4723/wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440 {}
+http://127.0.0.1:4723 "DELETE /wd/hub/session/2ca39338-7fec-48e2-b58e-2c8af6f38440 HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session {"capabilities": {"firstMatch": [{"platformName": "android", "appium:deviceName": "S2D0219430000212", "appium:appPackage": "com.tencent.wework", "appium:appActivity": ".launch.LaunchSplashActivity", "appium:noReset": "true", "appium:unicodeKeyBoard": true, "appium:skipDeviceInitialization": true, "appium:skipLogcatCapture": true, "appium:skipServerInstallation": true, "appium:resetKeyBoard": true}]}, "desiredCapabilities": {"platformName": "android", "deviceName": "S2D0219430000212", "appPackage": "com.tencent.wework", "appActivity": ".launch.LaunchSplashActivity", "noReset": "true", "unicodeKeyBoard": true, "skipDeviceInitialization": true, "skipLogcatCapture": true, "skipServerInstallation": true, "resetKeyBoard": true}}
+Starting new HTTP connection (1): 127.0.0.1:4723
+http://127.0.0.1:4723 "POST /wd/hub/session HTTP/1.1" 200 1132
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/3c4f1196-03d8-4d8c-bdab-e5f12be523f8/timeouts {"implicit": 10000}
+http://127.0.0.1:4723 "POST /wd/hub/session/3c4f1196-03d8-4d8c-bdab-e5f12be523f8/timeouts HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/3c4f1196-03d8-4d8c-bdab-e5f12be523f8/element {"using": "xpath", "value": "//*[@text='\u56e2\u961f']"}
+http://127.0.0.1:4723 "POST /wd/hub/session/3c4f1196-03d8-4d8c-bdab-e5f12be523f8/element HTTP/1.1" 200 137
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/3c4f1196-03d8-4d8c-bdab-e5f12be523f8/timeouts {"implicit": 10000}
+http://127.0.0.1:4723 "POST /wd/hub/session/3c4f1196-03d8-4d8c-bdab-e5f12be523f8/timeouts HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/3c4f1196-03d8-4d8c-bdab-e5f12be523f8/element/4d41d7b4-c5e9-41e8-8edf-ce3f611d0dee/click {"id": "4d41d7b4-c5e9-41e8-8edf-ce3f611d0dee"}
+http://127.0.0.1:4723 "POST /wd/hub/session/3c4f1196-03d8-4d8c-bdab-e5f12be523f8/element/4d41d7b4-c5e9-41e8-8edf-ce3f611d0dee/click HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/3c4f1196-03d8-4d8c-bdab-e5f12be523f8/element {"using": "xpath", "value": "//*[@text='test1']"}
+http://127.0.0.1:4723 "POST /wd/hub/session/3c4f1196-03d8-4d8c-bdab-e5f12be523f8/element HTTP/1.1" 200 137
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/3c4f1196-03d8-4d8c-bdab-e5f12be523f8/timeouts {"implicit": 10000}
+http://127.0.0.1:4723 "POST /wd/hub/session/3c4f1196-03d8-4d8c-bdab-e5f12be523f8/timeouts HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/3c4f1196-03d8-4d8c-bdab-e5f12be523f8/element/d415b700-ff12-411d-ae44-38d72c0641cf/click {"id": "d415b700-ff12-411d-ae44-38d72c0641cf"}
+http://127.0.0.1:4723 "POST /wd/hub/session/3c4f1196-03d8-4d8c-bdab-e5f12be523f8/element/d415b700-ff12-411d-ae44-38d72c0641cf/click HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/3c4f1196-03d8-4d8c-bdab-e5f12be523f8/element {"using": "id", "value": "com.tencent.wework:id/gvd"}
+http://127.0.0.1:4723 "POST /wd/hub/session/3c4f1196-03d8-4d8c-bdab-e5f12be523f8/element HTTP/1.1" 200 137
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/3c4f1196-03d8-4d8c-bdab-e5f12be523f8/timeouts {"implicit": 10000}
+http://127.0.0.1:4723 "POST /wd/hub/session/3c4f1196-03d8-4d8c-bdab-e5f12be523f8/timeouts HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/3c4f1196-03d8-4d8c-bdab-e5f12be523f8/element/0cd19306-74b3-48a6-82b1-961339d6ad8d/click {"id": "0cd19306-74b3-48a6-82b1-961339d6ad8d"}
+http://127.0.0.1:4723 "POST /wd/hub/session/3c4f1196-03d8-4d8c-bdab-e5f12be523f8/element/0cd19306-74b3-48a6-82b1-961339d6ad8d/click HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/3c4f1196-03d8-4d8c-bdab-e5f12be523f8/element {"using": "id", "value": "com.tencent.wework:id/azk"}
+http://127.0.0.1:4723 "POST /wd/hub/session/3c4f1196-03d8-4d8c-bdab-e5f12be523f8/element HTTP/1.1" 200 137
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/3c4f1196-03d8-4d8c-bdab-e5f12be523f8/timeouts {"implicit": 10000}
+http://127.0.0.1:4723 "POST /wd/hub/session/3c4f1196-03d8-4d8c-bdab-e5f12be523f8/timeouts HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/3c4f1196-03d8-4d8c-bdab-e5f12be523f8/element/62e9efb8-fa43-4b8c-8e0b-29a6d33a308a/click {"id": "62e9efb8-fa43-4b8c-8e0b-29a6d33a308a"}
+http://127.0.0.1:4723 "POST /wd/hub/session/3c4f1196-03d8-4d8c-bdab-e5f12be523f8/element/62e9efb8-fa43-4b8c-8e0b-29a6d33a308a/click HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/3c4f1196-03d8-4d8c-bdab-e5f12be523f8/element {"using": "id", "value": "com.tencent.wework:id/dve"}
+http://127.0.0.1:4723 "POST /wd/hub/session/3c4f1196-03d8-4d8c-bdab-e5f12be523f8/element HTTP/1.1" 200 137
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/3c4f1196-03d8-4d8c-bdab-e5f12be523f8/timeouts {"implicit": 10000}
+http://127.0.0.1:4723 "POST /wd/hub/session/3c4f1196-03d8-4d8c-bdab-e5f12be523f8/timeouts HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/3c4f1196-03d8-4d8c-bdab-e5f12be523f8/element/7adddaeb-e5e0-4d97-8eb2-0f379745a705/click {"id": "7adddaeb-e5e0-4d97-8eb2-0f379745a705"}
+http://127.0.0.1:4723 "POST /wd/hub/session/3c4f1196-03d8-4d8c-bdab-e5f12be523f8/element/7adddaeb-e5e0-4d97-8eb2-0f379745a705/click HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/3c4f1196-03d8-4d8c-bdab-e5f12be523f8/element {"using": "id", "value": "com.tencent.wework:id/b_a"}
+http://127.0.0.1:4723 "POST /wd/hub/session/3c4f1196-03d8-4d8c-bdab-e5f12be523f8/element HTTP/1.1" 200 137
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/3c4f1196-03d8-4d8c-bdab-e5f12be523f8/timeouts {"implicit": 10000}
+http://127.0.0.1:4723 "POST /wd/hub/session/3c4f1196-03d8-4d8c-bdab-e5f12be523f8/timeouts HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/3c4f1196-03d8-4d8c-bdab-e5f12be523f8/element/8742d220-465e-4c96-998c-d3904c662dff/click {"id": "8742d220-465e-4c96-998c-d3904c662dff"}
+http://127.0.0.1:4723 "POST /wd/hub/session/3c4f1196-03d8-4d8c-bdab-e5f12be523f8/element/8742d220-465e-4c96-998c-d3904c662dff/click HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/3c4f1196-03d8-4d8c-bdab-e5f12be523f8/element {"using": "id", "value": "com.tencent.wework:id/b_a"}
+http://127.0.0.1:4723 "POST /wd/hub/session/3c4f1196-03d8-4d8c-bdab-e5f12be523f8/element HTTP/1.1" 404 420
+Finished Request
+DELETE http://127.0.0.1:4723/wd/hub/session/3c4f1196-03d8-4d8c-bdab-e5f12be523f8 {}
+http://127.0.0.1:4723 "DELETE /wd/hub/session/3c4f1196-03d8-4d8c-bdab-e5f12be523f8 HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session {"capabilities": {"firstMatch": [{"platformName": "android", "appium:deviceName": "S2D0219430000212", "appium:appPackage": "com.tencent.wework", "appium:appActivity": ".launch.LaunchSplashActivity", "appium:noReset": "true", "appium:unicodeKeyBoard": true, "appium:skipDeviceInitialization": true, "appium:skipLogcatCapture": true, "appium:skipServerInstallation": true, "appium:resetKeyBoard": true}]}, "desiredCapabilities": {"platformName": "android", "deviceName": "S2D0219430000212", "appPackage": "com.tencent.wework", "appActivity": ".launch.LaunchSplashActivity", "noReset": "true", "unicodeKeyBoard": true, "skipDeviceInitialization": true, "skipLogcatCapture": true, "skipServerInstallation": true, "resetKeyBoard": true}}
+Starting new HTTP connection (1): 127.0.0.1:4723
+http://127.0.0.1:4723 "POST /wd/hub/session HTTP/1.1" 200 1132
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/83ea2393-8c0c-43f8-b4be-b59bbbd02941/timeouts {"implicit": 10000}
+http://127.0.0.1:4723 "POST /wd/hub/session/83ea2393-8c0c-43f8-b4be-b59bbbd02941/timeouts HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/83ea2393-8c0c-43f8-b4be-b59bbbd02941/element {"using": "xpath", "value": "//*[@text='\u56e2\u961f']"}
+http://127.0.0.1:4723 "POST /wd/hub/session/83ea2393-8c0c-43f8-b4be-b59bbbd02941/element HTTP/1.1" 200 137
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/83ea2393-8c0c-43f8-b4be-b59bbbd02941/timeouts {"implicit": 10000}
+http://127.0.0.1:4723 "POST /wd/hub/session/83ea2393-8c0c-43f8-b4be-b59bbbd02941/timeouts HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/83ea2393-8c0c-43f8-b4be-b59bbbd02941/element/1f342fec-1f13-434c-8f97-f69884265102/click {"id": "1f342fec-1f13-434c-8f97-f69884265102"}
+http://127.0.0.1:4723 "POST /wd/hub/session/83ea2393-8c0c-43f8-b4be-b59bbbd02941/element/1f342fec-1f13-434c-8f97-f69884265102/click HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/83ea2393-8c0c-43f8-b4be-b59bbbd02941/element {"using": "xpath", "value": "//*[@text='test2']"}
+http://127.0.0.1:4723 "POST /wd/hub/session/83ea2393-8c0c-43f8-b4be-b59bbbd02941/element HTTP/1.1" 200 137
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/83ea2393-8c0c-43f8-b4be-b59bbbd02941/timeouts {"implicit": 10000}
+http://127.0.0.1:4723 "POST /wd/hub/session/83ea2393-8c0c-43f8-b4be-b59bbbd02941/timeouts HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/83ea2393-8c0c-43f8-b4be-b59bbbd02941/element/1614f004-6cd3-421f-abdf-7e6147f82c37/click {"id": "1614f004-6cd3-421f-abdf-7e6147f82c37"}
+http://127.0.0.1:4723 "POST /wd/hub/session/83ea2393-8c0c-43f8-b4be-b59bbbd02941/element/1614f004-6cd3-421f-abdf-7e6147f82c37/click HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/83ea2393-8c0c-43f8-b4be-b59bbbd02941/element {"using": "id", "value": "com.tencent.wework:id/gvd"}
+http://127.0.0.1:4723 "POST /wd/hub/session/83ea2393-8c0c-43f8-b4be-b59bbbd02941/element HTTP/1.1" 200 137
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/83ea2393-8c0c-43f8-b4be-b59bbbd02941/timeouts {"implicit": 10000}
+http://127.0.0.1:4723 "POST /wd/hub/session/83ea2393-8c0c-43f8-b4be-b59bbbd02941/timeouts HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/83ea2393-8c0c-43f8-b4be-b59bbbd02941/element/4cd19343-b74f-46c3-bd81-f4989a3d2601/click {"id": "4cd19343-b74f-46c3-bd81-f4989a3d2601"}
+http://127.0.0.1:4723 "POST /wd/hub/session/83ea2393-8c0c-43f8-b4be-b59bbbd02941/element/4cd19343-b74f-46c3-bd81-f4989a3d2601/click HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/83ea2393-8c0c-43f8-b4be-b59bbbd02941/element {"using": "id", "value": "com.tencent.wework:id/azk"}
+http://127.0.0.1:4723 "POST /wd/hub/session/83ea2393-8c0c-43f8-b4be-b59bbbd02941/element HTTP/1.1" 200 137
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/83ea2393-8c0c-43f8-b4be-b59bbbd02941/timeouts {"implicit": 10000}
+http://127.0.0.1:4723 "POST /wd/hub/session/83ea2393-8c0c-43f8-b4be-b59bbbd02941/timeouts HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/83ea2393-8c0c-43f8-b4be-b59bbbd02941/element/6447d006-2251-4a5f-a1b1-8d5b9efb934d/click {"id": "6447d006-2251-4a5f-a1b1-8d5b9efb934d"}
+http://127.0.0.1:4723 "POST /wd/hub/session/83ea2393-8c0c-43f8-b4be-b59bbbd02941/element/6447d006-2251-4a5f-a1b1-8d5b9efb934d/click HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/83ea2393-8c0c-43f8-b4be-b59bbbd02941/element {"using": "id", "value": "com.tencent.wework:id/dve"}
+http://127.0.0.1:4723 "POST /wd/hub/session/83ea2393-8c0c-43f8-b4be-b59bbbd02941/element HTTP/1.1" 200 137
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/83ea2393-8c0c-43f8-b4be-b59bbbd02941/timeouts {"implicit": 10000}
+http://127.0.0.1:4723 "POST /wd/hub/session/83ea2393-8c0c-43f8-b4be-b59bbbd02941/timeouts HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/83ea2393-8c0c-43f8-b4be-b59bbbd02941/element/6390be41-6b54-48f6-9145-d410bfe53640/click {"id": "6390be41-6b54-48f6-9145-d410bfe53640"}
+http://127.0.0.1:4723 "POST /wd/hub/session/83ea2393-8c0c-43f8-b4be-b59bbbd02941/element/6390be41-6b54-48f6-9145-d410bfe53640/click HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/83ea2393-8c0c-43f8-b4be-b59bbbd02941/element {"using": "id", "value": "com.tencent.wework:id/b_a"}
+http://127.0.0.1:4723 "POST /wd/hub/session/83ea2393-8c0c-43f8-b4be-b59bbbd02941/element HTTP/1.1" 200 137
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/83ea2393-8c0c-43f8-b4be-b59bbbd02941/timeouts {"implicit": 10000}
+http://127.0.0.1:4723 "POST /wd/hub/session/83ea2393-8c0c-43f8-b4be-b59bbbd02941/timeouts HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/83ea2393-8c0c-43f8-b4be-b59bbbd02941/element/bfe050be-510a-4a3d-a007-cd2c863878a9/click {"id": "bfe050be-510a-4a3d-a007-cd2c863878a9"}
+http://127.0.0.1:4723 "POST /wd/hub/session/83ea2393-8c0c-43f8-b4be-b59bbbd02941/element/bfe050be-510a-4a3d-a007-cd2c863878a9/click HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/83ea2393-8c0c-43f8-b4be-b59bbbd02941/element {"using": "id", "value": "com.tencent.wework:id/b_a"}
+http://127.0.0.1:4723 "POST /wd/hub/session/83ea2393-8c0c-43f8-b4be-b59bbbd02941/element HTTP/1.1" 404 420
+Finished Request
+DELETE http://127.0.0.1:4723/wd/hub/session/83ea2393-8c0c-43f8-b4be-b59bbbd02941 {}
+http://127.0.0.1:4723 "DELETE /wd/hub/session/83ea2393-8c0c-43f8-b4be-b59bbbd02941 HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session {"capabilities": {"firstMatch": [{"platformName": "android", "appium:deviceName": "S2D0219430000212", "appium:appPackage": "com.tencent.wework", "appium:appActivity": ".launch.LaunchSplashActivity", "appium:noReset": "true", "appium:unicodeKeyBoard": true, "appium:skipDeviceInitialization": true, "appium:skipLogcatCapture": true, "appium:skipServerInstallation": true, "appium:resetKeyBoard": true}]}, "desiredCapabilities": {"platformName": "android", "deviceName": "S2D0219430000212", "appPackage": "com.tencent.wework", "appActivity": ".launch.LaunchSplashActivity", "noReset": "true", "unicodeKeyBoard": true, "skipDeviceInitialization": true, "skipLogcatCapture": true, "skipServerInstallation": true, "resetKeyBoard": true}}
+Starting new HTTP connection (1): 127.0.0.1:4723
+http://127.0.0.1:4723 "POST /wd/hub/session HTTP/1.1" 200 1132
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/13394893-21a7-4d27-8aa2-dc915237c060/timeouts {"implicit": 10000}
+http://127.0.0.1:4723 "POST /wd/hub/session/13394893-21a7-4d27-8aa2-dc915237c060/timeouts HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/13394893-21a7-4d27-8aa2-dc915237c060/element {"using": "xpath", "value": "//*[@text='\u56e2\u961f']"}
+http://127.0.0.1:4723 "POST /wd/hub/session/13394893-21a7-4d27-8aa2-dc915237c060/element HTTP/1.1" 200 137
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/13394893-21a7-4d27-8aa2-dc915237c060/timeouts {"implicit": 10000}
+http://127.0.0.1:4723 "POST /wd/hub/session/13394893-21a7-4d27-8aa2-dc915237c060/timeouts HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/13394893-21a7-4d27-8aa2-dc915237c060/element/acf9ffd3-0d5d-440d-a430-ab2636190657/click {"id": "acf9ffd3-0d5d-440d-a430-ab2636190657"}
+http://127.0.0.1:4723 "POST /wd/hub/session/13394893-21a7-4d27-8aa2-dc915237c060/element/acf9ffd3-0d5d-440d-a430-ab2636190657/click HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/13394893-21a7-4d27-8aa2-dc915237c060/element {"using": "xpath", "value": "//*[@text='test3']"}
+http://127.0.0.1:4723 "POST /wd/hub/session/13394893-21a7-4d27-8aa2-dc915237c060/element HTTP/1.1" 404 420
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/13394893-21a7-4d27-8aa2-dc915237c060/timeouts {"implicit": 1000}
+http://127.0.0.1:4723 "POST /wd/hub/session/13394893-21a7-4d27-8aa2-dc915237c060/timeouts HTTP/1.1" 200 14
+Finished Request
+POST http://127.0.0.1:4723/wd/hub/session/13394893-21a7-4d27-8aa2-dc915237c060/element {"using": "xpath", "value": "//*[@text='\u786e\u8ba4']"}
+http://127.0.0.1:4723 "POST /wd/hub/session/13394893-21a7-4d27-8aa2-dc915237c060/element HTTP/1.1" 404 420
+Finished Request
+DELETE http://127.0.0.1:4723/wd/hub/session/13394893-21a7-4d27-8aa2-dc915237c060 {}
+http://127.0.0.1:4723 "DELETE /wd/hub/session/13394893-21a7-4d27-8aa2-dc915237c060 HTTP/1.1" 200 14
+Finished Request

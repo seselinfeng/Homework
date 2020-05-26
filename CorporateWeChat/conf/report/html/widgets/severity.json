@@ -1,0 +1,71 @@
+[ {
+  "uid" : "78edc617d6d91954",
+  "name" : "删除用户",
+  "time" : {
+    "start" : 1590463783352,
+    "stop" : 1590463798982,
+    "duration" : 15630
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "eec0f98d53e601c2",
+  "name" : "删除用户",
+  "time" : {
+    "start" : 1590463761459,
+    "stop" : 1590463779479,
+    "duration" : 18020
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a854209a11f5740f",
+  "name" : "添加用户",
+  "time" : {
+    "start" : 1590463698835,
+    "stop" : 1590463708124,
+    "duration" : 9289
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2742f1a86097a40d",
+  "name" : "添加用户",
+  "time" : {
+    "start" : 1590463711970,
+    "stop" : 1590463722369,
+    "duration" : 10399
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a50498fdcbb42334",
+  "name" : "删除用户",
+  "time" : {
+    "start" : 1590463739598,
+    "stop" : 1590463757617,
+    "duration" : 18019
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "861225df083972dd",
+  "name" : "test_addmember",
+  "time" : {
+    "start" : 1590463298671,
+    "stop" : 1590463308078,
+    "duration" : 9407
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "20cd03a22f8a60bb",
+  "name" : "添加用户",
+  "time" : {
+    "start" : 1590463726141,
+    "stop" : 1590463735804,
+    "duration" : 9663
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

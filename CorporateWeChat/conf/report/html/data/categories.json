@@ -1,0 +1,99 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "TypeError: can only concatenate str (not \"MemberInvite\") to str",
+      "children" : [ {
+        "name" : "添加用户",
+        "uid" : "a854209a11f5740f",
+        "parentUid" : "2bfef63a5e47f2e40366990783642888",
+        "status" : "broken",
+        "time" : {
+          "start" : 1590463698835,
+          "stop" : 1590463708124,
+          "duration" : 9289
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'女'", "'test1'", "18900000001" ]
+      }, {
+        "name" : "添加用户",
+        "uid" : "2742f1a86097a40d",
+        "parentUid" : "2bfef63a5e47f2e40366990783642888",
+        "status" : "broken",
+        "time" : {
+          "start" : 1590463711970,
+          "stop" : 1590463722369,
+          "duration" : 10399
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'男'", "'test2'", "18900000002" ]
+      }, {
+        "name" : "添加用户",
+        "uid" : "20cd03a22f8a60bb",
+        "parentUid" : "2bfef63a5e47f2e40366990783642888",
+        "status" : "broken",
+        "time" : {
+          "start" : 1590463726141,
+          "stop" : 1590463735804,
+          "duration" : 9663
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'女'", "'test1'", "18900000002" ]
+      } ],
+      "uid" : "2bfef63a5e47f2e40366990783642888"
+    }, {
+      "name" : "selenium.common.exceptions.TimeoutException: Message:",
+      "children" : [ {
+        "name" : "删除用户",
+        "uid" : "a50498fdcbb42334",
+        "parentUid" : "31bb78a6a95ede3f78b260ed048910d8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1590463739598,
+          "stop" : 1590463757617,
+          "duration" : 18019
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'test1'" ]
+      }, {
+        "name" : "删除用户",
+        "uid" : "eec0f98d53e601c2",
+        "parentUid" : "31bb78a6a95ede3f78b260ed048910d8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1590463761459,
+          "stop" : 1590463779479,
+          "duration" : 18020
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'test2'" ]
+      } ],
+      "uid" : "31bb78a6a95ede3f78b260ed048910d8"
+    }, {
+      "name" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.",
+      "children" : [ {
+        "name" : "删除用户",
+        "uid" : "78edc617d6d91954",
+        "parentUid" : "7a823ebd65a5f17ad39e628108c6e522",
+        "status" : "broken",
+        "time" : {
+          "start" : 1590463783352,
+          "stop" : 1590463798982,
+          "duration" : 15630
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'test3'" ]
+      } ],
+      "uid" : "7a823ebd65a5f17ad39e628108c6e522"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

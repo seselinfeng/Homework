@@ -1,0 +1,141 @@
+{
+  "4b626ad6ace94fd57199df424c63e49b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "78edc617d6d91954",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.",
+      "time" : {
+        "start" : 1590463783352,
+        "stop" : 1590463798982,
+        "duration" : 15630
+      }
+    } ]
+  },
+  "9b730d611b7246c41813506beb3b40be" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2742f1a86097a40d",
+      "status" : "broken",
+      "statusDetails" : "TypeError: can only concatenate str (not \"MemberInvite\") to str",
+      "time" : {
+        "start" : 1590463711970,
+        "stop" : 1590463722369,
+        "duration" : 10399
+      }
+    } ]
+  },
+  "f07b6d59de5e301f01759363dc37b982" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a50498fdcbb42334",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message:",
+      "time" : {
+        "start" : 1590463739598,
+        "stop" : 1590463757617,
+        "duration" : 18019
+      }
+    } ]
+  },
+  "ae4cad34748e90aea7003aba73a343fb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a854209a11f5740f",
+      "status" : "broken",
+      "statusDetails" : "TypeError: can only concatenate str (not \"MemberInvite\") to str",
+      "time" : {
+        "start" : 1590463698835,
+        "stop" : 1590463708124,
+        "duration" : 9289
+      }
+    } ]
+  },
+  "99fa3b02cbd0f9f09ca019c6061da439" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "861225df083972dd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590463298671,
+        "stop" : 1590463308078,
+        "duration" : 9407
+      }
+    } ]
+  },
+  "62cfdcc51068ef51e7bd2ea751066538" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "eec0f98d53e601c2",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message:",
+      "time" : {
+        "start" : 1590463761459,
+        "stop" : 1590463779479,
+        "duration" : 18020
+      }
+    } ]
+  },
+  "0ec6a1645ca207da0cb6a1f6c526fccc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "20cd03a22f8a60bb",
+      "status" : "broken",
+      "statusDetails" : "TypeError: can only concatenate str (not \"MemberInvite\") to str",
+      "time" : {
+        "start" : 1590463726141,
+        "stop" : 1590463735804,
+        "duration" : 9663
+      }
+    } ]
+  }
+}

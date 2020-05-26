@@ -1,0 +1,108 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "mac-test.local",
+    "children" : [ {
+      "name" : "27903-MainThread",
+      "children" : [ {
+        "name" : "删除用户",
+        "uid" : "78edc617d6d91954",
+        "parentUid" : "519ba0a13016eabf8226339330bd423e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1590463783352,
+          "stop" : 1590463798982,
+          "duration" : 15630
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'test3'" ]
+      }, {
+        "name" : "删除用户",
+        "uid" : "eec0f98d53e601c2",
+        "parentUid" : "519ba0a13016eabf8226339330bd423e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1590463761459,
+          "stop" : 1590463779479,
+          "duration" : 18020
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'test2'" ]
+      }, {
+        "name" : "添加用户",
+        "uid" : "a854209a11f5740f",
+        "parentUid" : "519ba0a13016eabf8226339330bd423e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1590463698835,
+          "stop" : 1590463708124,
+          "duration" : 9289
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'女'", "'test1'", "18900000001" ]
+      }, {
+        "name" : "添加用户",
+        "uid" : "2742f1a86097a40d",
+        "parentUid" : "519ba0a13016eabf8226339330bd423e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1590463711970,
+          "stop" : 1590463722369,
+          "duration" : 10399
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'男'", "'test2'", "18900000002" ]
+      }, {
+        "name" : "删除用户",
+        "uid" : "a50498fdcbb42334",
+        "parentUid" : "519ba0a13016eabf8226339330bd423e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1590463739598,
+          "stop" : 1590463757617,
+          "duration" : 18019
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'test1'" ]
+      }, {
+        "name" : "添加用户",
+        "uid" : "20cd03a22f8a60bb",
+        "parentUid" : "519ba0a13016eabf8226339330bd423e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1590463726141,
+          "stop" : 1590463735804,
+          "duration" : 9663
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'女'", "'test1'", "18900000002" ]
+      } ],
+      "uid" : "519ba0a13016eabf8226339330bd423e"
+    }, {
+      "name" : "26530-MainThread",
+      "children" : [ {
+        "name" : "test_addmember",
+        "uid" : "861225df083972dd",
+        "parentUid" : "2f604a337add26882b4e356b629fdf39",
+        "status" : "passed",
+        "time" : {
+          "start" : 1590463298671,
+          "stop" : 1590463308078,
+          "duration" : 9407
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2f604a337add26882b4e356b629fdf39"
+    } ],
+    "uid" : "841c9417d5297ce5f52b44bf1a15bf9d"
+  } ]
+}

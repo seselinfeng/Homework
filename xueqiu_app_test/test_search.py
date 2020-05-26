@@ -46,7 +46,7 @@ class TestSearch:
         toast_message = "已关注"
         message = '//*[@text=\'{}\']'.format(toast_message)
         # 获取toast提示框内容
-        result = WebDriverWait(self, 5).until(lambda x: x.find_element(MobileBy.XPATH,message)).text
+        result = WebDriverWait(self, 5).until(lambda x: x.find(MobileBy.XPATH,message)).text
         # result = WebDriverWait(self.driver, 5).until(
         #     lambda x: x.find_element(MobileBy.XPATH, "//*[@resource-id='com.xueqiu.android:id/followed_btn']")).text
         assert result == "已关注"
