@@ -1,0 +1,21 @@
+- - -1
+  - -1
+  - 1
+- - -1
+  - 0
+  - 'ZeroDivisionError'
+- - 0
+  - 0
+  - 'ZeroDivisionError'
+- - 'a'
+  - 2
+  - 'type error'
+- - [1]
+  - 2
+  - 'type error'
+- - {1}
+  - 2
+  - 'type error'
+- - {1: 1}
+  - 2
+  - 'type error'
