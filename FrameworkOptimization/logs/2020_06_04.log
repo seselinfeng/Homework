@@ -1,0 +1,96 @@
+[2020-06-04 11:52:22,610] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="android:id/tabs"]/android.widget.RelativeLayout[2]/android.widget.ImageView[1]')
+{}
+[2020-06-04 11:52:30,303] - log.py] - INFO: run find
+ args: 
+('id', 'com.xueqiu.android:id/action_search')
+{}
+[2020-06-04 11:52:31,300] - log.py] - INFO: run find
+ args: 
+('id', 'com.xueqiu.android:id/search_input_text')
+{}
+[2020-06-04 11:52:32,820] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@text="BABA"]/..')
+{}
+[2020-06-04 11:52:33,618] - log.py] - INFO: run find
+ args: 
+('xpath', "//*[@text='BABA']/../../..//*[@text='已添加']")
+{}
+[2020-06-04 11:52:35,305] - log.py] - INFO: run find
+ args: 
+('xpath', "//*[@text='BABA']/../../..//*[@text='已添加']")
+{}
+[2020-06-04 11:52:35,813] - log.py] - INFO: run find
+ args: 
+('xpath', "//*[@text='BABA']/../../..//*[@text='加自选']")
+{}
+[2020-06-04 11:52:37,858] - log.py] - INFO: run find
+ args: 
+('xpath', "//*[@text='BABA']/../../..//*[@text='已添加']")
+{}
+[2020-06-04 11:52:42,585] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="android:id/tabs"]/android.widget.RelativeLayout[2]/android.widget.ImageView[1]')
+{}
+[2020-06-04 11:52:51,889] - log.py] - INFO: run find
+ args: 
+('id', 'com.xueqiu.android:id/action_search')
+{}
+[2020-06-04 11:52:52,916] - log.py] - INFO: run find
+ args: 
+('id', 'com.xueqiu.android:id/search_input_text')
+{}
+[2020-06-04 11:52:53,936] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@text="01810"]/..')
+{}
+[2020-06-04 11:56:20,680] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="android:id/tabs"]/android.widget.RelativeLayout[2]/android.widget.ImageView[1]')
+{}
+[2020-06-04 11:56:28,305] - log.py] - INFO: run find
+ args: 
+('id', 'com.xueqiu.android:id/action_search')
+{}
+[2020-06-04 11:56:29,284] - log.py] - INFO: run find
+ args: 
+('id', 'com.xueqiu.android:id/search_input_text')
+{}
+[2020-06-04 11:56:30,762] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@text="BABA"]/..')
+{}
+[2020-06-04 11:56:31,563] - log.py] - INFO: run find
+ args: 
+('xpath', "//*[@text='BABA']/../../..//*[@text='已添加']")
+{}
+[2020-06-04 11:56:33,211] - log.py] - INFO: run find
+ args: 
+('xpath', "//*[@text='BABA']/../../..//*[@text='已添加']")
+{}
+[2020-06-04 11:56:33,659] - log.py] - INFO: run find
+ args: 
+('xpath', "//*[@text='BABA']/../../..//*[@text='加自选']")
+{}
+[2020-06-04 11:56:35,683] - log.py] - INFO: run find
+ args: 
+('xpath', "//*[@text='BABA']/../../..//*[@text='已添加']")
+{}
+[2020-06-04 11:56:40,322] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="android:id/tabs"]/android.widget.RelativeLayout[2]/android.widget.ImageView[1]')
+{}
+[2020-06-04 11:56:48,140] - log.py] - INFO: run find
+ args: 
+('id', 'com.xueqiu.android:id/action_search')
+{}
+[2020-06-04 11:56:49,129] - log.py] - INFO: run find
+ args: 
+('id', 'com.xueqiu.android:id/search_input_text')
+{}
+[2020-06-04 11:56:50,129] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@text="01810"]/..')
+{}

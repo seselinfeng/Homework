@@ -1,0 +1,16 @@
+[2020-06-04 11:56:40,322] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="android:id/tabs"]/android.widget.RelativeLayout[2]/android.widget.ImageView[1]')
+{}
+[2020-06-04 11:56:48,140] - log.py] - INFO: run find
+ args: 
+('id', 'com.xueqiu.android:id/action_search')
+{}
+[2020-06-04 11:56:49,129] - log.py] - INFO: run find
+ args: 
+('id', 'com.xueqiu.android:id/search_input_text')
+{}
+[2020-06-04 11:56:50,129] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@text="01810"]/..')
+{}

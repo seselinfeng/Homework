@@ -3,6 +3,10 @@ import logging
 from appium.webdriver.common.mobileby import MobileBy
 from selenium.webdriver.common.by import By
 
+from FrameworkOptimization.common.log import Log
+
+log = Log()
+
 
 def handle_black(func):
     """
@@ -27,19 +31,20 @@ def handle_black(func):
         # 拿到BasePage实例对象
         instance: BasePage = args[0]
         try:
-            logging.info("run " + func.__name__ + "\n args: \n" + repr(args[1:]) + "\n" + repr(kwargs))
+            log.info("run " + func.__name__ + "\n args: \n" + repr(args[1:]) + "\n" + repr(kwargs))
             element = func(*args, **kwargs)
             # 重置失败次数
             _error_count = 0
             instance._driver.implicitly_wait(10)
             return element
         except Exception as e:
+            # 错误日志
+            log.error("element not found, handle black list")
             # 错误截图
             instance.screenshot("../screenshot/tmp.png")
             with open("tmp.png", "rb") as f:
                 content = f.read()
             allure.attach(content, attachment_type=allure.attachment_type.PNG)
-            logging.error("element not found, handle black list")
             instance._driver.get_screenshot_as_png()
             # 缩短隐式等待时间，优化速度
             instance._driver.implicitly_wait(1)

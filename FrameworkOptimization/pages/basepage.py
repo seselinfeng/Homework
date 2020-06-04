@@ -3,6 +3,7 @@ import json
 import yaml
 from appium.webdriver import webdriver, WebElement
 
+from FrameworkOptimization.common.log import Log
 from FrameworkOptimization.pages.decorator import handle_black
 
 
@@ -11,6 +12,7 @@ class BasePage:
 
     def __init__(self, driver: webdriver = None):
         self._driver = driver
+        self._log = Log()
 
     def set_implicitly_wait(self, time):
         """
