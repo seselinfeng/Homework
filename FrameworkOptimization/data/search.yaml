@@ -1,0 +1,19 @@
+search:
+  - by: id
+    locator: 'com.xueqiu.android:id/search_input_text'
+    action: send_keys
+    value: ${name}
+  - by: xpath
+    locator: '//*[@text="${value}"]/..'
+    action: click
+add_custom:
+  - by: xpath
+    locator: "//*[@text='${value}']/../../..//*[@text='加自选']"
+    action: click
+is_choose:
+  - by: xpath
+    locator: "//*[@text='${value}']/../../..//*[@text='已添加']"
+del_custom:
+  - by: xpath
+    locator: "//*[@text='${value}']/../../..//*[@text='已添加']"
+    action: click
