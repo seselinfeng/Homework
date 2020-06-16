@@ -1,0 +1,49 @@
+[2020-06-09 17:06:47,628] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="android:id/tabs"]/android.widget.RelativeLayout[2]/android.widget.ImageView[1]')
+{}
+[2020-06-09 17:06:51,026] - log.py] - INFO: run find
+ args: 
+('id', 'com.xueqiu.android:id/action_search')
+{}
+[2020-06-09 17:06:52,308] - log.py] - INFO: run find
+ args: 
+('id', 'com.xueqiu.android:id/search_input_text')
+{}
+[2020-06-09 17:07:00,289] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@text="BABA"]/..')
+{}
+[2020-06-09 17:07:01,344] - log.py] - INFO: run find
+ args: 
+('xpath', "//*[@text='BABA']/../../..//*[@text='已添加']")
+{}
+[2020-06-09 17:07:03,207] - log.py] - INFO: run find
+ args: 
+('xpath', "//*[@text='BABA']/../../..//*[@text='已添加']")
+{}
+[2020-06-09 17:07:04,483] - log.py] - INFO: run find
+ args: 
+('xpath', "//*[@text='BABA']/../../..//*[@text='加自选']")
+{}
+[2020-06-09 17:07:05,555] - log.py] - INFO: run find
+ args: 
+('xpath', "//*[@text='BABA']/../../..//*[@text='已添加']")
+{}
+[2020-06-09 17:07:10,403] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="android:id/tabs"]/android.widget.RelativeLayout[2]/android.widget.ImageView[1]')
+{}
+[2020-06-09 17:07:18,212] - log.py] - INFO: run find
+ args: 
+('id', 'com.xueqiu.android:id/action_search')
+{}
+[2020-06-09 17:07:19,271] - log.py] - INFO: run find
+ args: 
+('id', 'com.xueqiu.android:id/search_input_text')
+{}
+[2020-06-09 17:07:20,254] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@text="01810"]/..')
+{}
+[2020-06-09 17:07:30,416] - log.py] - ERROR: element not found, handle black list

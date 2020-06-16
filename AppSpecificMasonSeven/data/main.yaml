@@ -1,0 +1,12 @@
+login:
+  - by: xpath
+    locator: '//*[@resource-id="com.masonstevens.app:id/username"]'
+    action: send_keys
+    value: rams439754
+  - by: xpath
+    locator: '//*[@resource-id="com.masonstevens.app:id/password"]'
+    action: send_keys
+    value: Tester99
+  - by: xpath
+    locator: '//*[@resource-id="com.masonstevens.app:id/btnLogin"]'
+    action: click

@@ -1,0 +1,68 @@
+[2020-06-16 10:31:42,467] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="com.masonstevens.app:id/username"]')
+{}
+[2020-06-16 10:31:43,535] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="com.masonstevens.app:id/password"]')
+{}
+[2020-06-16 10:31:44,788] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="com.masonstevens.app:id/btnLogin"]')
+{}
+[2020-06-16 10:31:45,425] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="com.masonstevens.app:id/bottomNavigationBar"]/android.widget.LinearLayout[2]/android.widget.RelativeLayout[1]')
+{}
+[2020-06-16 10:31:50,972] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="com.masonstevens.app:id/client"]')
+{}
+[2020-06-16 10:34:33,400] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="com.masonstevens.app:id/username"]')
+{}
+[2020-06-16 10:34:33,904] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="com.masonstevens.app:id/password"]')
+{}
+[2020-06-16 10:34:35,092] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="com.masonstevens.app:id/btnLogin"]')
+{}
+[2020-06-16 10:34:35,759] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="com.masonstevens.app:id/bottomNavigationBar"]/android.widget.LinearLayout[2]/android.widget.RelativeLayout[1]')
+{}
+[2020-06-16 10:34:46,731] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="com.masonstevens.app:id/client"]')
+{}
+[2020-06-16 10:35:48,866] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="com.masonstevens.app:id/username"]')
+{}
+[2020-06-16 10:35:49,943] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="com.masonstevens.app:id/password"]')
+{}
+[2020-06-16 10:36:00,657] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="com.masonstevens.app:id/username"]')
+{}
+[2020-06-16 10:36:01,717] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="com.masonstevens.app:id/password"]')
+{}
+[2020-06-16 10:36:02,967] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="com.masonstevens.app:id/btnLogin"]')
+{}
+[2020-06-16 10:36:03,627] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="com.masonstevens.app:id/bottomNavigationBar"]/android.widget.LinearLayout[2]/android.widget.RelativeLayout[1]')
+{}
+[2020-06-16 10:36:09,829] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="com.masonstevens.app:id/client"]')
+{}

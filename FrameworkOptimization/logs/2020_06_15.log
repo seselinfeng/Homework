@@ -1,0 +1,134 @@
+[2020-06-15 15:35:42,730] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="android:id/tabs"]/android.widget.RelativeLayout[2]/android.widget.ImageView[2]')
+{}
+[2020-06-15 15:35:53,386] - log.py] - ERROR: element not found, handle black list
+[2020-06-15 15:39:21,493] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="android:id/tabs"]/android.widget.RelativeLayout[2]/android.widget.ImageView[2]')
+{}
+[2020-06-15 15:39:31,808] - log.py] - ERROR: element not found, handle black list
+[2020-06-15 15:47:01,972] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="android:id/tabs"]/android.widget.RelativeLayout[3]/android.widget.ImageView[1]')
+{}
+[2020-06-15 15:47:06,433] - log.py] - ERROR: element not found, handle black list
+[2020-06-15 15:47:25,383] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="android:id/tabs"]/android.widget.RelativeLayout[3]/android.widget.ImageView[1]')
+{}
+[2020-06-15 15:51:13,953] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="android:id/tabs"]/android.widget.RelativeLayout[3]/android.widget.ImageView[1]')
+{}
+[2020-06-15 15:52:06,847] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="android:id/tabs"]/android.widget.RelativeLayout[3]/android.widget.ImageView[1]')
+{}
+[2020-06-15 15:55:58,623] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="android:id/tabs"]/android.widget.RelativeLayout[3]/android.widget.ImageView[1]')
+{}
+[2020-06-15 15:57:15,748] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="android:id/tabs"]/android.widget.RelativeLayout[3]/android.widget.ImageView[1]')
+{}
+[2020-06-15 15:57:59,327] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="android:id/tabs"]/android.widget.RelativeLayout[3]/android.widget.ImageView[1]')
+{}
+[2020-06-15 16:06:35,079] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="android:id/tabs"]/android.widget.RelativeLayout[3]/android.widget.ImageView[1]')
+{}
+[2020-06-15 18:07:45,735] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="com.masonstevens.app:id/username"]')
+{}
+[2020-06-15 18:07:47,253] - log.py] - ERROR: element not found, handle black list
+[2020-06-15 18:08:40,398] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="com.masonstevens.app:id/username"]')
+{}
+[2020-06-15 18:08:41,488] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="com.masonstevens.app:id/password"]')
+{}
+[2020-06-15 18:08:42,738] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="com.masonstevens.app:id/btnLogin"]')
+{}
+[2020-06-15 18:08:43,393] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="com.masonstevens.app:id/bottomNavigationBar"]/android.widget.LinearLayout[2]/android.widget.RelativeLayout[1]')
+{}
+[2020-06-15 18:54:02,879] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="com.masonstevens.app:id/username"]')
+{}
+[2020-06-15 18:54:04,084] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="com.masonstevens.app:id/password"]')
+{}
+[2020-06-15 18:54:05,358] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="com.masonstevens.app:id/btnLogin"]')
+{}
+[2020-06-15 18:54:06,006] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="com.masonstevens.app:id/bottomNavigationBar"]/android.widget.LinearLayout[2]/android.widget.RelativeLayout[1]')
+{}
+[2020-06-15 18:55:11,628] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="com.masonstevens.app:id/username"]')
+{}
+[2020-06-15 18:55:12,058] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="com.masonstevens.app:id/password"]')
+{}
+[2020-06-15 18:55:13,251] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="com.masonstevens.app:id/btnLogin"]')
+{}
+[2020-06-15 18:55:13,916] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="com.masonstevens.app:id/bottomNavigationBar"]/android.widget.LinearLayout[2]/android.widget.RelativeLayout[1]')
+{}
+[2020-06-15 18:55:15,492] - log.py] - ERROR: element not found, handle black list
+[2020-06-15 18:55:30,000] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="com.masonstevens.app:id/username"]')
+{}
+[2020-06-15 18:55:31,042] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="com.masonstevens.app:id/password"]')
+{}
+[2020-06-15 18:55:32,342] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="com.masonstevens.app:id/btnLogin"]')
+{}
+[2020-06-15 18:55:32,989] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="com.masonstevens.app:id/bottomNavigationBar"]/android.widget.LinearLayout[2]/android.widget.RelativeLayout[1]')
+{}
+[2020-06-15 18:55:43,039] - log.py] - ERROR: element not found, handle black list
+[2020-06-15 18:56:03,506] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="com.masonstevens.app:id/username"]')
+{}
+[2020-06-15 18:56:04,577] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="com.masonstevens.app:id/password"]')
+{}
+[2020-06-15 18:56:05,847] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="com.masonstevens.app:id/btnLogin"]')
+{}
+[2020-06-15 18:56:07,346] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="com.masonstevens.app:id/bottomNavigationBar"]/android.widget.LinearLayout[2]/android.widget.RelativeLayout[1]')
+{}
+[2020-06-15 18:56:12,326] - log.py] - INFO: run find
+ args: 
+('xpath', '//*[@resource-id="com.masonstevens.app:id/client"]')
+{}

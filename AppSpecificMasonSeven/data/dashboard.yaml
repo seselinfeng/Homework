@@ -1,0 +1,4 @@
+goto_me:
+  - by: xpath
+    locator: '//*[@resource-id="com.masonstevens.app:id/bottomNavigationBar"]/android.widget.LinearLayout[2]/android.widget.RelativeLayout[1]'
+    action: click

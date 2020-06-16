@@ -1,0 +1,4 @@
+goto_user_details:
+  - by: xpath
+    locator: '//*[@resource-id="com.masonstevens.app:id/client"]'
+    action: click

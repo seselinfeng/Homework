@@ -1,0 +1,4 @@
+goto_transcation:
+  - by: xpath
+    locator: '//*[@resource-id="android:id/tabs"]/android.widget.RelativeLayout[3]/android.widget.ImageView[1]'
+    action: click
