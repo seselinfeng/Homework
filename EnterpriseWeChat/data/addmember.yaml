@@ -1,0 +1,16 @@
+add_member:
+  - by: 'css selector'
+    locator: '#username'
+    action: send_keys
+    value: ${username}
+  - by: 'css selector'
+    locator: '#memberAdd_acctid'
+    action: send_keys
+    value: ${acctid}
+  - by: 'css selector'
+    locator: '#memberAdd_phone'
+    action: send_keys
+    value: ${phone}
+  - by: 'css selector'
+    locator: '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)'
+    action: click
