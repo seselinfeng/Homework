@@ -1,0 +1,574 @@
+[2020-06-23 10:04:28,679] - log.py] - ERROR: Message: no such element: Unable to locate element: {"method":"css selector","selector":"js_member_count"}
+  (Session info: chrome=83.0.4103.106)
+
+[2020-06-23 10:08:50,608] - log.py] - INFO: 1:(20人)
+[2020-06-23 10:08:50,608] - log.py] - INFO: 2:[('(20人', '(20')]
+[2020-06-23 10:09:43,778] - log.py] - INFO: 1:(20人)
+[2020-06-23 10:09:43,779] - log.py] - INFO: 2:['20']
+[2020-06-23 10:10:13,886] - log.py] - INFO: 1:(20人)
+[2020-06-23 10:10:13,887] - log.py] - INFO: 2:20
+[2020-06-23 10:10:17,026] - log.py] - ERROR: Message: no such element: Unable to locate element: {"method":"css selector","selector":".ww_pageNav_info_text"}
+  (Session info: chrome=83.0.4103.106)
+
+[2020-06-23 10:16:48,409] - log.py] - INFO: 当前已邀请用户数:20
+[2020-06-23 10:16:48,465] - log.py] - INFO: 当前已邀请用户数:20
+[2020-06-23 10:16:50,570] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0001'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0001'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000001'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:16:51,578] - log.py] - INFO: 当前已邀请用户数:20
+[2020-06-23 10:16:54,230] - log.py] - INFO: 当前已邀请用户数:20
+[2020-06-23 10:16:54,280] - log.py] - INFO: 当前已邀请用户数:20
+[2020-06-23 10:16:56,317] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0002'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0002'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000002'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:16:57,321] - log.py] - INFO: 当前已邀请用户数:20
+[2020-06-23 10:16:59,439] - log.py] - INFO: 当前已邀请用户数:20
+[2020-06-23 10:16:59,509] - log.py] - INFO: 当前已邀请用户数:20
+[2020-06-23 10:17:01,628] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0003'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0003'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000003'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:17:02,611] - log.py] - INFO: 当前已邀请用户数:20
+[2020-06-23 10:17:04,660] - log.py] - INFO: 当前已邀请用户数:20
+[2020-06-23 10:17:04,722] - log.py] - INFO: 当前已邀请用户数:20
+[2020-06-23 10:17:20,471] - log.py] - INFO: 当前已邀请用户数:19
+[2020-06-23 10:17:20,538] - log.py] - INFO: 当前已邀请用户数:19
+[2020-06-23 10:17:23,612] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0005'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0005'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000005'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:17:24,602] - log.py] - INFO: 当前已邀请用户数:19
+[2020-06-23 10:17:27,599] - log.py] - INFO: 当前已邀请用户数:19
+[2020-06-23 10:17:27,662] - log.py] - INFO: 当前已邀请用户数:19
+[2020-06-23 10:17:29,691] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0006'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0006'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000006'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:17:30,680] - log.py] - INFO: 当前已邀请用户数:19
+[2020-06-23 10:17:33,336] - log.py] - INFO: 当前已邀请用户数:19
+[2020-06-23 10:17:33,410] - log.py] - INFO: 当前已邀请用户数:19
+[2020-06-23 10:17:35,427] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0007'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0007'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000007'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:17:36,412] - log.py] - INFO: 当前已邀请用户数:19
+[2020-06-23 10:17:39,064] - log.py] - INFO: 当前已邀请用户数:19
+[2020-06-23 10:17:39,141] - log.py] - INFO: 当前已邀请用户数:19
+[2020-06-23 10:17:41,191] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0008'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0008'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000008'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:17:42,217] - log.py] - INFO: 当前已邀请用户数:19
+[2020-06-23 10:17:44,839] - log.py] - INFO: 当前已邀请用户数:19
+[2020-06-23 10:17:44,921] - log.py] - INFO: 当前已邀请用户数:19
+[2020-06-23 10:17:46,913] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0009'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0009'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000009'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:17:47,913] - log.py] - INFO: 当前已邀请用户数:19
+[2020-06-23 10:17:50,542] - log.py] - INFO: 当前已邀请用户数:19
+[2020-06-23 10:17:50,627] - log.py] - INFO: 当前已邀请用户数:19
+[2020-06-23 10:17:52,677] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0010'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0010'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000010'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:17:53,657] - log.py] - INFO: 当前已邀请用户数:19
+[2020-06-23 10:17:56,323] - log.py] - INFO: 当前已邀请用户数:19
+[2020-06-23 10:17:56,418] - log.py] - INFO: 当前已邀请用户数:19
+[2020-06-23 10:17:58,517] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0011'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0011'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000011'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:17:59,477] - log.py] - INFO: 当前已邀请用户数:19
+[2020-06-23 10:18:01,498] - log.py] - INFO: 当前已邀请用户数:19
+[2020-06-23 10:18:01,791] - log.py] - INFO: 当前已邀请用户数:19
+[2020-06-23 10:18:03,981] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0012'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0012'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000012'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:18:04,982] - log.py] - INFO: 当前已邀请用户数:19
+[2020-06-23 10:18:07,718] - log.py] - INFO: 当前已邀请用户数:19
+[2020-06-23 10:18:07,818] - log.py] - INFO: 当前已邀请用户数:19
+[2020-06-23 10:18:09,983] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0013'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0013'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000013'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:18:10,974] - log.py] - INFO: 当前已邀请用户数:19
+[2020-06-23 10:18:13,639] - log.py] - INFO: 当前已邀请用户数:19
+[2020-06-23 10:18:13,744] - log.py] - INFO: 当前已邀请用户数:19
+[2020-06-23 10:18:15,829] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0014'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0014'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000014'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:18:16,826] - log.py] - INFO: 当前已邀请用户数:19
+[2020-06-23 10:18:19,742] - log.py] - INFO: 当前已邀请用户数:19
+[2020-06-23 10:18:19,849] - log.py] - INFO: 当前已邀请用户数:19
+[2020-06-23 10:18:21,900] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0015'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0015'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000015'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:18:22,925] - log.py] - INFO: 当前已邀请用户数:19
+[2020-06-23 10:18:25,609] - log.py] - INFO: 当前已邀请用户数:19
+[2020-06-23 10:18:25,725] - log.py] - INFO: 当前已邀请用户数:19
+[2020-06-23 10:18:27,778] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0016'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0016'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000016'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:18:28,772] - log.py] - INFO: 当前已邀请用户数:19
+[2020-06-23 10:18:31,740] - log.py] - INFO: 当前已邀请用户数:19
+[2020-06-23 10:18:31,856] - log.py] - INFO: 当前已邀请用户数:19
+[2020-06-23 10:18:33,944] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0017'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0017'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000017'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:18:34,911] - log.py] - INFO: 当前已邀请用户数:19
+[2020-06-23 10:18:37,706] - log.py] - INFO: 当前已邀请用户数:19
+[2020-06-23 10:18:37,836] - log.py] - INFO: 当前已邀请用户数:19
+[2020-06-23 10:18:53,538] - log.py] - INFO: 当前已邀请用户数:18
+[2020-06-23 10:18:53,665] - log.py] - INFO: 当前已邀请用户数:18
+[2020-06-23 10:18:56,068] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0019'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0019'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000019'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:18:57,095] - log.py] - INFO: 当前已邀请用户数:18
+[2020-06-23 10:18:59,921] - log.py] - INFO: 当前已邀请用户数:18
+[2020-06-23 10:19:01,164] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0020'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0020'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000020'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:19:02,245] - log.py] - INFO: 当前已邀请用户数:19
+[2020-06-23 10:19:05,080] - log.py] - INFO: 当前已邀请用户数:19
+[2020-06-23 10:19:06,305] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0021'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0021'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000021'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:19:07,325] - log.py] - INFO: 当前已邀请用户数:20
+[2020-06-23 10:19:09,629] - log.py] - INFO: 当前已邀请用户数:20
+[2020-06-23 10:19:11,040] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0022'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0022'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000022'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:19:12,035] - log.py] - INFO: 当前已邀请用户数:21
+[2020-06-23 10:19:14,930] - log.py] - INFO: 当前已邀请用户数:21
+[2020-06-23 10:19:16,292] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0023'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0023'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000023'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:19:17,286] - log.py] - INFO: 当前已邀请用户数:22
+[2020-06-23 10:19:19,979] - log.py] - INFO: 当前已邀请用户数:22
+[2020-06-23 10:19:21,340] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0024'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0024'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000024'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:19:22,389] - log.py] - INFO: 当前已邀请用户数:23
+[2020-06-23 10:19:25,328] - log.py] - INFO: 当前已邀请用户数:23
+[2020-06-23 10:19:26,701] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0025'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0025'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000025'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:19:27,725] - log.py] - INFO: 当前已邀请用户数:24
+[2020-06-23 10:19:29,932] - log.py] - INFO: 当前已邀请用户数:24
+[2020-06-23 10:19:31,440] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0026'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0026'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000026'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:19:32,459] - log.py] - INFO: 当前已邀请用户数:25
+[2020-06-23 10:19:35,217] - log.py] - INFO: 当前已邀请用户数:25
+[2020-06-23 10:19:36,605] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0027'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0027'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000027'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:19:37,638] - log.py] - INFO: 当前已邀请用户数:26
+[2020-06-23 10:19:40,287] - log.py] - INFO: 当前已邀请用户数:26
+[2020-06-23 10:19:41,685] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0028'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0028'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000028'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:19:42,665] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 10:19:45,486] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 10:19:46,886] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0029'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0029'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000029'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:19:47,923] - log.py] - INFO: 当前已邀请用户数:28
+[2020-06-23 10:20:10,522] - log.py] - INFO: 当前已邀请用户数:28
+[2020-06-23 10:20:10,849] - log.py] - INFO: 当前已邀请用户数:28
+[2020-06-23 10:20:12,943] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0029'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0029'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000029'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:20:13,962] - log.py] - INFO: 当前已邀请用户数:28
+[2020-06-23 10:36:31,876] - log.py] - INFO: 当前已邀请用户数:28
+[2020-06-23 10:36:32,289] - log.py] - INFO: 当前已邀请用户数:28
+[2020-06-23 10:36:38,630] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 10:36:39,378] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 10:36:44,952] - log.py] - INFO: 当前已邀请用户数:26
+[2020-06-23 10:36:45,094] - log.py] - INFO: 当前已邀请用户数:26
+[2020-06-23 10:38:18,730] - log.py] - INFO: 当前已邀请用户数:25
+[2020-06-23 10:38:20,365] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0029'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0029'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000029'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:38:21,413] - log.py] - INFO: 当前已邀请用户数:26
+[2020-06-23 10:38:24,371] - log.py] - INFO: 当前已邀请用户数:26
+[2020-06-23 10:38:25,763] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0001'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0001'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000001'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:38:26,774] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 10:38:29,524] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 10:38:30,968] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0002'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0002'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000002'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:38:31,992] - log.py] - INFO: 当前已邀请用户数:28
+[2020-06-23 10:38:34,809] - log.py] - INFO: 当前已邀请用户数:28
+[2020-06-23 10:38:34,890] - log.py] - INFO: 当前已邀请用户数:28
+[2020-06-23 10:38:38,190] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 10:38:39,649] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0004'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0004'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000004'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:40:14,007] - log.py] - INFO: 当前已邀请用户数:28
+[2020-06-23 10:40:14,324] - log.py] - INFO: 当前已邀请用户数:28
+[2020-06-23 10:40:17,734] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 10:40:17,795] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 10:40:21,555] - log.py] - INFO: 当前已邀请用户数:26
+[2020-06-23 10:40:21,624] - log.py] - INFO: 当前已邀请用户数:26
+[2020-06-23 10:43:14,800] - log.py] - INFO: 当前已邀请用户数:25
+[2020-06-23 10:43:15,121] - log.py] - INFO: 当前已邀请用户数:25
+[2020-06-23 10:43:36,444] - log.py] - INFO: 当前已邀请用户数:25
+[2020-06-23 10:43:37,897] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0029'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0029'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000029'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:43:38,930] - log.py] - INFO: 当前已邀请用户数:26
+[2020-06-23 10:43:41,691] - log.py] - INFO: 当前已邀请用户数:26
+[2020-06-23 10:43:43,093] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0001'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0001'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000001'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:43:44,083] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 10:43:46,905] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 10:43:48,361] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0002'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0002'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000002'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:43:49,362] - log.py] - INFO: 当前已邀请用户数:28
+[2020-06-23 10:43:52,547] - log.py] - INFO: 当前已邀请用户数:28
+[2020-06-23 10:43:53,966] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0003'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0003'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000003'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:43:54,981] - log.py] - INFO: 当前已邀请用户数:29
+[2020-06-23 10:43:57,774] - log.py] - INFO: 当前已邀请用户数:29
+[2020-06-23 10:43:57,858] - log.py] - INFO: 当前已邀请用户数:29
+[2020-06-23 10:44:02,082] - log.py] - INFO: 当前已邀请用户数:28
+[2020-06-23 10:44:02,195] - log.py] - INFO: 当前已邀请用户数:28
+[2020-06-23 10:44:05,374] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 10:44:05,458] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 10:44:08,880] - log.py] - INFO: 当前已邀请用户数:26
+[2020-06-23 10:44:08,998] - log.py] - INFO: 当前已邀请用户数:26
+[2020-06-23 10:47:14,806] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 10:47:15,239] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:47:15,402] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:47:15,603] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 10:47:15,628] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:47:15,986] - log.py] - INFO: 页码为
+[2020-06-23 10:47:18,808] - log.py] - INFO: 当前已邀请用户数:26
+[2020-06-23 10:47:18,826] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:47:18,871] - log.py] - INFO: 当前已邀请用户数:26
+[2020-06-23 10:47:18,884] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:47:19,339] - log.py] - INFO: 页码为
+[2020-06-23 10:47:21,884] - log.py] - INFO: 当前已邀请用户数:25
+[2020-06-23 10:47:22,574] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:47:22,639] - log.py] - INFO: 当前已邀请用户数:25
+[2020-06-23 10:47:22,654] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:47:23,136] - log.py] - INFO: 页码为
+[2020-06-23 10:47:26,014] - log.py] - INFO: 当前已邀请用户数:24
+[2020-06-23 10:47:26,034] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:47:26,084] - log.py] - INFO: 当前已邀请用户数:24
+[2020-06-23 10:47:26,096] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:47:26,561] - log.py] - INFO: 页码为
+[2020-06-23 10:47:29,273] - log.py] - INFO: 当前已邀请用户数:23
+[2020-06-23 10:47:29,302] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:47:29,347] - log.py] - INFO: 当前已邀请用户数:23
+[2020-06-23 10:47:29,359] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:47:29,807] - log.py] - INFO: 页码为
+[2020-06-23 10:47:32,522] - log.py] - INFO: 当前已邀请用户数:22
+[2020-06-23 10:47:32,548] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:47:32,598] - log.py] - INFO: 当前已邀请用户数:22
+[2020-06-23 10:47:32,612] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:47:33,102] - log.py] - INFO: 页码为
+[2020-06-23 10:49:03,593] - log.py] - INFO: 当前已邀请用户数:21
+[2020-06-23 10:49:03,618] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:49:03,737] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:49:03,867] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:49:05,056] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0029'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0029'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000029'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:49:06,098] - log.py] - INFO: 当前已邀请用户数:22
+[2020-06-23 10:49:06,116] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:49:08,980] - log.py] - INFO: 当前已邀请用户数:22
+[2020-06-23 10:49:09,003] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:49:09,178] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:49:09,319] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:49:10,434] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0001'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0001'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000001'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:49:11,418] - log.py] - INFO: 当前已邀请用户数:23
+[2020-06-23 10:49:11,436] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:49:11,474] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:49:14,221] - log.py] - INFO: 当前已邀请用户数:23
+[2020-06-23 10:49:14,242] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:49:14,359] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:49:14,487] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:49:15,654] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0002'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0002'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000002'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:49:16,672] - log.py] - INFO: 当前已邀请用户数:24
+[2020-06-23 10:49:16,691] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:49:16,729] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:49:19,902] - log.py] - INFO: 当前已邀请用户数:24
+[2020-06-23 10:49:19,929] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:49:20,050] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:49:20,183] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:49:21,305] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0003'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0003'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000003'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:49:22,307] - log.py] - INFO: 当前已邀请用户数:25
+[2020-06-23 10:49:22,604] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:49:22,649] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:49:25,193] - log.py] - INFO: 当前已邀请用户数:25
+[2020-06-23 10:49:25,268] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:49:25,420] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:49:25,610] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:49:26,738] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0004'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0004'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000004'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:49:27,761] - log.py] - INFO: 当前已邀请用户数:26
+[2020-06-23 10:49:27,783] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:49:27,831] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:49:30,520] - log.py] - INFO: 当前已邀请用户数:26
+[2020-06-23 10:49:30,548] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:49:30,667] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:49:30,811] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:49:31,927] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0005'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0005'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000005'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:49:32,910] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 10:49:32,928] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:49:32,983] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:49:35,729] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 10:49:35,750] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:49:35,869] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:49:36,030] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:49:37,149] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0006'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0006'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000006'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:49:38,142] - log.py] - INFO: 当前已邀请用户数:28
+[2020-06-23 10:49:38,160] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:49:38,218] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:49:40,963] - log.py] - INFO: 当前已邀请用户数:28
+[2020-06-23 10:49:40,986] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:49:41,107] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:49:41,272] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:49:42,394] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0007'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0007'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000007'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:49:43,414] - log.py] - INFO: 当前已邀请用户数:29
+[2020-06-23 10:49:43,432] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:49:43,496] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:49:46,256] - log.py] - INFO: 当前已邀请用户数:29
+[2020-06-23 10:49:46,286] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:49:46,368] - log.py] - INFO: 当前已邀请用户数:29
+[2020-06-23 10:49:46,381] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:49:46,831] - log.py] - INFO: 页码为
+[2020-06-23 10:49:49,566] - log.py] - INFO: 当前已邀请用户数:28
+[2020-06-23 10:49:49,589] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:49:49,671] - log.py] - INFO: 当前已邀请用户数:28
+[2020-06-23 10:49:49,683] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:49:50,136] - log.py] - INFO: 页码为
+[2020-06-23 10:51:18,225] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 10:51:18,247] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:51:18,364] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:51:18,530] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 10:51:18,550] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:51:20,654] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0029'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0029'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000029'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:51:21,717] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 10:51:21,909] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:51:24,663] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 10:51:24,685] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:51:24,730] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 10:51:24,742] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:51:26,733] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0001'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0001'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000001'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:51:27,758] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 10:51:27,776] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:51:30,493] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 10:51:30,513] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:51:30,562] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 10:51:30,574] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:51:32,639] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0002'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0002'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000002'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:51:33,621] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 10:51:33,639] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:51:37,487] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 10:51:37,509] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:51:37,565] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 10:51:37,577] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:51:39,592] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0003'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0003'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000003'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:51:40,625] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 10:51:40,732] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:51:43,535] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 10:51:43,553] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:51:43,611] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 10:51:43,623] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:51:45,656] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0004'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0004'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000004'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:51:46,658] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 10:51:46,676] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:51:49,488] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 10:51:49,515] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:51:49,581] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 10:51:49,594] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:51:51,624] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0005'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0005'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000005'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:51:52,642] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 10:51:52,661] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:51:55,075] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 10:51:55,781] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:51:55,880] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 10:51:55,899] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:51:57,962] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0006'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0006'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000006'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:51:58,963] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 10:51:58,982] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:52:01,722] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 10:52:01,747] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:52:01,849] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 10:52:01,862] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:52:03,991] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0007'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0007'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000007'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:52:04,994] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 10:52:05,010] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:52:07,843] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 10:52:07,866] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:52:07,983] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:52:08,142] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:52:09,262] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0008'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0008'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000008'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:52:10,265] - log.py] - INFO: 当前已邀请用户数:28
+[2020-06-23 10:52:10,283] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:52:10,342] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:52:13,133] - log.py] - INFO: 当前已邀请用户数:28
+[2020-06-23 10:52:13,155] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:52:13,274] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:52:13,439] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:52:14,561] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0009'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0009'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000009'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:52:15,540] - log.py] - INFO: 当前已邀请用户数:29
+[2020-06-23 10:52:15,558] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:52:15,623] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:52:18,431] - log.py] - INFO: 当前已邀请用户数:29
+[2020-06-23 10:52:18,452] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:52:18,542] - log.py] - INFO: 当前已邀请用户数:29
+[2020-06-23 10:52:18,555] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:52:20,611] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0010'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0010'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000010'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:52:21,611] - log.py] - INFO: 当前已邀请用户数:29
+[2020-06-23 10:52:21,629] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:52:24,500] - log.py] - INFO: 当前已邀请用户数:29
+[2020-06-23 10:52:24,522] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:52:24,621] - log.py] - INFO: 当前已邀请用户数:29
+[2020-06-23 10:52:24,633] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:52:26,693] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0011'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0011'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000011'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:52:27,686] - log.py] - INFO: 当前已邀请用户数:29
+[2020-06-23 10:52:27,706] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:52:30,558] - log.py] - INFO: 当前已邀请用户数:29
+[2020-06-23 10:52:30,586] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:52:30,686] - log.py] - INFO: 当前已邀请用户数:29
+[2020-06-23 10:52:30,700] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:52:32,772] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0012'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0012'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000012'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:52:33,767] - log.py] - INFO: 当前已邀请用户数:29
+[2020-06-23 10:52:34,119] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:52:37,001] - log.py] - INFO: 当前已邀请用户数:29
+[2020-06-23 10:52:37,021] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:52:37,126] - log.py] - INFO: 当前已邀请用户数:29
+[2020-06-23 10:52:37,139] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:52:39,202] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0013'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0013'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000013'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:52:40,198] - log.py] - INFO: 当前已邀请用户数:29
+[2020-06-23 10:52:40,216] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:52:43,141] - log.py] - INFO: 当前已邀请用户数:29
+[2020-06-23 10:52:43,177] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:52:43,288] - log.py] - INFO: 当前已邀请用户数:29
+[2020-06-23 10:52:43,300] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:52:45,950] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0014'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0014'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000014'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:52:46,930] - log.py] - INFO: 当前已邀请用户数:29
+[2020-06-23 10:52:46,949] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:52:49,825] - log.py] - INFO: 当前已邀请用户数:29
+[2020-06-23 10:52:49,843] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:52:49,956] - log.py] - INFO: 当前已邀请用户数:29
+[2020-06-23 10:52:49,969] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:52:52,041] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0015'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0015'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000015'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:52:53,027] - log.py] - INFO: 当前已邀请用户数:29
+[2020-06-23 10:52:53,046] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:52:55,919] - log.py] - INFO: 当前已邀请用户数:29
+[2020-06-23 10:52:55,940] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:52:56,059] - log.py] - INFO: 当前已邀请用户数:29
+[2020-06-23 10:52:56,071] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:52:58,163] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0016'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0016'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000016'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:52:59,143] - log.py] - INFO: 当前已邀请用户数:29
+[2020-06-23 10:52:59,161] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:53:02,098] - log.py] - INFO: 当前已邀请用户数:29
+[2020-06-23 10:53:02,119] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:53:02,244] - log.py] - INFO: 当前已邀请用户数:29
+[2020-06-23 10:53:02,257] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:53:04,350] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0017'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0017'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000017'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:53:05,357] - log.py] - INFO: 当前已邀请用户数:29
+[2020-06-23 10:53:05,376] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:53:08,360] - log.py] - INFO: 当前已邀请用户数:29
+[2020-06-23 10:53:08,378] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:53:08,500] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:53:08,677] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:53:09,801] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0018'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0018'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000018'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:53:11,327] - log.py] - INFO: 当前已邀请用户数:30
+[2020-06-23 10:53:11,344] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:53:11,412] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:53:14,377] - log.py] - INFO: 当前已邀请用户数:30
+[2020-06-23 10:53:14,407] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:53:14,595] - log.py] - INFO: 当前已邀请用户数:30
+[2020-06-23 10:53:14,613] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:53:17,282] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0019'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0019'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000019'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:53:18,810] - log.py] - INFO: 当前已邀请用户数:30
+[2020-06-23 10:53:18,827] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:53:21,810] - log.py] - INFO: 当前已邀请用户数:30
+[2020-06-23 10:53:22,964] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:53:23,124] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:53:23,293] - log.py] - INFO: 当前已邀请用户数:30
+[2020-06-23 10:53:23,315] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:53:25,333] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0020'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0020'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000020'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:53:26,323] - log.py] - INFO: 当前已邀请用户数:30
+[2020-06-23 10:53:26,343] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:53:29,410] - log.py] - INFO: 当前已邀请用户数:30
+[2020-06-23 10:53:29,429] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:53:29,548] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:53:29,703] - log.py] - INFO: 当前已邀请用户数:30
+[2020-06-23 10:53:29,723] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:53:31,741] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0021'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0021'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000021'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:53:32,755] - log.py] - INFO: 当前已邀请用户数:30
+[2020-06-23 10:53:32,774] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:53:35,899] - log.py] - INFO: 当前已邀请用户数:30
+[2020-06-23 10:53:35,918] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:53:36,040] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:53:36,214] - log.py] - INFO: 当前已邀请用户数:30
+[2020-06-23 10:53:36,231] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:53:38,254] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0022'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0022'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000022'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:53:39,271] - log.py] - INFO: 当前已邀请用户数:30
+[2020-06-23 10:53:39,288] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:53:42,191] - log.py] - INFO: 当前已邀请用户数:30
+[2020-06-23 10:53:42,212] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:53:42,331] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:53:42,494] - log.py] - INFO: 当前已邀请用户数:30
+[2020-06-23 10:53:42,511] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:53:44,543] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0023'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0023'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000023'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:53:45,517] - log.py] - INFO: 当前已邀请用户数:30
+[2020-06-23 10:53:45,538] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:53:48,515] - log.py] - INFO: 当前已邀请用户数:30
+[2020-06-23 10:53:48,547] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:53:48,666] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:53:48,841] - log.py] - INFO: 当前已邀请用户数:30
+[2020-06-23 10:53:48,858] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:53:50,885] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0024'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0024'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000024'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:53:51,876] - log.py] - INFO: 当前已邀请用户数:30
+[2020-06-23 10:53:52,942] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:53:55,950] - log.py] - INFO: 当前已邀请用户数:30
+[2020-06-23 10:53:55,970] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:53:56,091] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:53:56,267] - log.py] - INFO: 当前已邀请用户数:30
+[2020-06-23 10:53:56,285] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:53:58,318] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0025'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0025'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000025'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:53:59,305] - log.py] - INFO: 当前已邀请用户数:30
+[2020-06-23 10:53:59,327] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:54:02,406] - log.py] - INFO: 当前已邀请用户数:30
+[2020-06-23 10:54:02,456] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:54:02,581] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:54:02,763] - log.py] - INFO: 当前已邀请用户数:30
+[2020-06-23 10:54:02,780] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:54:18,706] - log.py] - INFO: 当前已邀请用户数:29
+[2020-06-23 10:54:18,728] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:54:18,845] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:54:19,138] - log.py] - INFO: 当前已邀请用户数:29
+[2020-06-23 10:54:19,154] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:54:21,233] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0027'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0027'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000027'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:54:22,765] - log.py] - INFO: 当前已邀请用户数:29
+[2020-06-23 10:54:22,899] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:54:25,890] - log.py] - INFO: 当前已邀请用户数:29
+[2020-06-23 10:54:25,909] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:54:26,026] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:54:26,200] - log.py] - INFO: 当前已邀请用户数:29
+[2020-06-23 10:54:26,218] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:54:28,233] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0028'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0028'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000028'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:54:29,207] - log.py] - INFO: 当前已邀请用户数:29
+[2020-06-23 10:54:29,224] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:54:32,057] - log.py] - INFO: 当前已邀请用户数:29
+[2020-06-23 10:54:32,074] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:54:32,191] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:54:32,371] - log.py] - INFO: 当前已邀请用户数:29
+[2020-06-23 10:54:32,388] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:54:35,625] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0029'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0029'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000029'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:54:36,612] - log.py] - INFO: 当前已邀请用户数:29
+[2020-06-23 10:54:36,630] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:58:33,366] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 10:58:33,396] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:58:33,515] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:58:33,702] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 10:58:33,721] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:58:35,845] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0029'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0029'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000029'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:58:36,857] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 10:58:36,875] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:58:39,794] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 10:58:39,819] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:58:39,936] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:58:40,093] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:58:41,220] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0001'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0001'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000001'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 10:58:42,243] - log.py] - INFO: 当前已邀请用户数:28
+[2020-06-23 10:58:42,261] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:58:42,317] - log.py] - INFO: 页码为2/2
+[2020-06-23 10:58:45,099] - log.py] - INFO: 当前已邀请用户数:28
+[2020-06-23 10:58:45,192] - log.py] - INFO: 页码为1/2
+[2020-06-23 10:58:45,306] - log.py] - INFO: 当前已邀请用户数:28
+[2020-06-23 10:58:45,331] - log.py] - INFO: 页码为1/2
+[2020-06-23 11:01:08,951] - log.py] - INFO: 当前已邀请用户数:26
+[2020-06-23 11:01:08,974] - log.py] - INFO: 页码为1/2
+[2020-06-23 11:01:09,140] - log.py] - INFO: 页码为1/2
+[2020-06-23 11:01:09,482] - log.py] - INFO: 当前已邀请用户数:26
+[2020-06-23 11:01:09,506] - log.py] - INFO: 页码为2/2
+[2020-06-23 11:01:11,693] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0029'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0029'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000029'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 11:01:12,797] - log.py] - INFO: 当前已邀请用户数:26
+[2020-06-23 11:01:12,820] - log.py] - INFO: 页码为2/2
+[2020-06-23 11:01:12,905] - log.py] - INFO: 页码为2/2
+[2020-06-23 11:01:12,984] - log.py] - INFO: 页码为2/2
+[2020-06-23 11:01:16,918] - log.py] - INFO: 当前已邀请用户数:26
+[2020-06-23 11:01:16,942] - log.py] - INFO: 页码为1/2
+[2020-06-23 11:01:17,112] - log.py] - INFO: 页码为1/2
+[2020-06-23 11:01:17,302] - log.py] - INFO: 页码为2/2
+[2020-06-23 11:01:18,449] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0001'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0001'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000001'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 11:01:19,572] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 11:01:19,598] - log.py] - INFO: 页码为2/2
+[2020-06-23 11:01:19,689] - log.py] - INFO: 页码为2/2
+[2020-06-23 11:01:19,764] - log.py] - INFO: 页码为2/2
+[2020-06-23 11:01:23,780] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 11:01:23,806] - log.py] - INFO: 页码为1/2
+[2020-06-23 11:01:24,154] - log.py] - INFO: 页码为1/2
+[2020-06-23 11:01:24,466] - log.py] - INFO: 页码为2/2
+[2020-06-23 11:03:29,304] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 11:03:29,329] - log.py] - INFO: 页码为1/2
+[2020-06-23 11:03:29,446] - log.py] - INFO: 页码为1/2
+[2020-06-23 11:03:29,612] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 11:03:29,632] - log.py] - INFO: 页码为2/2
+[2020-06-23 11:03:31,745] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0029'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0029'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000029'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 11:03:32,739] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 11:03:32,757] - log.py] - INFO: 页码为2/2
+[2020-06-23 11:03:35,552] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 11:03:35,570] - log.py] - INFO: 页码为1/2
+[2020-06-23 11:03:35,613] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 11:03:35,624] - log.py] - INFO: 页码为1/2
+[2020-06-23 11:03:52,295] - log.py] - INFO: 当前已邀请用户数:26
+[2020-06-23 11:03:52,320] - log.py] - INFO: 页码为1/2
+[2020-06-23 11:03:52,436] - log.py] - INFO: 页码为1/2
+[2020-06-23 11:03:52,609] - log.py] - INFO: 页码为2/2
+[2020-06-23 11:03:53,731] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0002'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0002'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000002'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 11:03:54,747] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 11:03:54,765] - log.py] - INFO: 页码为2/2
+[2020-06-23 11:03:54,862] - log.py] - INFO: 页码为2/2
+[2020-06-23 11:03:57,656] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 11:03:57,673] - log.py] - INFO: 页码为1/2
+[2020-06-23 11:03:57,735] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 11:03:57,747] - log.py] - INFO: 页码为1/2
+[2020-06-23 11:03:59,816] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0003'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0003'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000003'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 11:04:00,811] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 11:04:01,237] - log.py] - INFO: 页码为1/2
+[2020-06-23 11:04:04,079] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 11:04:04,116] - log.py] - INFO: 页码为1/2
+[2020-06-23 11:04:04,192] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 11:04:04,211] - log.py] - INFO: 页码为1/2
+[2020-06-23 11:04:06,280] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0004'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0004'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000004'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 11:04:07,312] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 11:04:07,329] - log.py] - INFO: 页码为1/2
+[2020-06-23 11:04:10,198] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 11:04:10,237] - log.py] - INFO: 页码为1/2
+[2020-06-23 11:04:10,367] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 11:04:10,381] - log.py] - INFO: 页码为1/2
+[2020-06-23 11:04:12,577] - log.py] - INFO: steps:[{'by': 'css selector', 'locator': '#username', 'action': 'send_keys', 'value': 'test0005'}, {'by': 'css selector', 'locator': '#memberAdd_acctid', 'action': 'send_keys', 'value': 'test0005'}, {'by': 'css selector', 'locator': '#memberAdd_phone', 'action': 'send_keys', 'value': '15000000005'}, {'by': 'css selector', 'locator': '.member_edit>form>div:nth-last-child(1)>a:nth-child(2)', 'action': 'click'}]
+[2020-06-23 11:04:13,705] - log.py] - INFO: 当前已邀请用户数:27
+[2020-06-23 11:04:13,723] - log.py] - INFO: 页码为1/2
